@@ -1,0 +1,26 @@
+{
+  "name": "momoney",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://root@45.55.33.152:/var/www/git/momoney"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "gm": "^1.23.1",
+    "googlemaps": "^1.12.0",
+    "moment": "^2.22.2",
+    "moment-timezone": "^0.5.21",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5",
+    "twit": "^2.2.11"
+  }
+}
